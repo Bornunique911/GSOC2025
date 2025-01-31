@@ -22,10 +22,6 @@ A simple, lightweight web browser built using Python and PyQt5. This browser inc
 1. Clone or download the repository.
 2. Ensure Python is installed on your system.
 3. Install the required libraries:
-   ```bash
+   ```console
    pip install PyQt5 PyQtWebEngine
-
-
-
-
-
+   ```
